@@ -114,6 +114,7 @@
 
       
     </plugins>
+    <finalName>category-service-0.0.1</finalName>
   </build>
 
 </project>
